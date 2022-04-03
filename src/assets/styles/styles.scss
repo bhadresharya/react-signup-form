@@ -1,0 +1,14 @@
+@import './bootstrap.scss';
+
+.main-wrapper {
+    min-height: 100vh;
+    background-color: $dark;
+
+    .card {
+        border-radius: 1rem;
+
+        .card-body {
+            padding: 2rem;
+        }
+    }
+}

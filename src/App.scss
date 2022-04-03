@@ -1,0 +1,20 @@
+@import './assets/styles/styles.scss';
+
+
+.nav-pills {
+    background: $dark;
+    width: fit-content;
+    margin: .5rem auto 2.5rem !important;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 2px solid $dark;
+
+    .nav-link {
+        text-transform: uppercase;
+        color: $white !important;
+
+        &.active {
+            color: $dark !important
+        }
+    }
+}
