@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e26e971.css",
-    "main.js": "/static/js/main.72a7bb78.js",
-    "static/js/787.856e1621.chunk.js": "/static/js/787.856e1621.chunk.js",
-    "index.html": "/index.html",
-    "main.5e26e971.css.map": "/static/css/main.5e26e971.css.map",
-    "main.72a7bb78.js.map": "/static/js/main.72a7bb78.js.map",
-    "787.856e1621.chunk.js.map": "/static/js/787.856e1621.chunk.js.map"
+    "main.css": "/react-signup-form/static/css/main.5e26e971.css",
+    "main.js": "/react-signup-form/static/js/main.c6bd8e3c.js",
+    "static/js/787.856e1621.chunk.js": "/react-signup-form/static/js/787.856e1621.chunk.js",
+    "index.html": "/react-signup-form/index.html",
+    "main.5e26e971.css.map": "/react-signup-form/static/css/main.5e26e971.css.map",
+    "main.c6bd8e3c.js.map": "/react-signup-form/static/js/main.c6bd8e3c.js.map",
+    "787.856e1621.chunk.js.map": "/react-signup-form/static/js/787.856e1621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e26e971.css",
-    "static/js/main.72a7bb78.js"
+    "static/js/main.c6bd8e3c.js"
   ]
 }
